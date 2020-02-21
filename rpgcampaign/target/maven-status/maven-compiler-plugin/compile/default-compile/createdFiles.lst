@@ -1,0 +1,13 @@
+br\com\sdevlab\rpgcampaign\models\CharacterType.class
+br\com\sdevlab\rpgcampaign\validation\UserValidation.class
+br\com\sdevlab\rpgcampaign\models\User.class
+br\com\sdevlab\rpgcampaign\controllers\UsersController.class
+br\com\sdevlab\rpgcampaign\controllers\CampaignController.class
+br\com\sdevlab\rpgcampaign\models\Campaign.class
+br\com\sdevlab\rpgcampaign\controllers\HomeController.class
+br\com\sdevlab\rpgcampaign\conf\AppWebConfiguration.class
+br\com\sdevlab\rpgcampaign\conf\ServletSpringMVC.class
+br\com\sdevlab\rpgcampaign\models\RPGCharacter.class
+br\com\sdevlab\rpgcampaign\daos\UserDAO.class
+br\com\sdevlab\rpgcampaign\conf\JPAConfiguration.class
+br\com\sdevlab\rpgcampaign\daos\CampaignDao.class
